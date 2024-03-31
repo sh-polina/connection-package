@@ -1,0 +1,15 @@
+{
+    "name": "polina/composer-packages",
+    "autoload": {
+        "psr-4": {
+            "Polina\\ComposerPackages\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sh-polina",
+            "email": "polina.shlygina@gmail.com"
+        }
+    ],
+    "require": {}
+}
